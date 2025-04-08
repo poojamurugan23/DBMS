@@ -1,2 +1,2 @@
 # DBMS
-DBMS tasks
+This Repository contains all DBMS tasks
